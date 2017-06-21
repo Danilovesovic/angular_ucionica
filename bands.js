@@ -122,4 +122,4 @@ var bands = [{
 ];
 
 
-    console.log(JSON.stringify(bands));
+    
